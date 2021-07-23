@@ -6,3 +6,5 @@ My personal website
 -- Added an icon in title tab 🥰
 
 -- Added dynamic color changing background 🟥🟧🟨🟩🟦🟪
+
+-- Added typing effect to the text
