@@ -15,7 +15,11 @@ body {
     }
 }
 
-
+p {
+            font-family : Comic sans MS;
+            color: white;
+        }
+        
 
 .typewriter h2 {
     font-family: Comic sans MS;
